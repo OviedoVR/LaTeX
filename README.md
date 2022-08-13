@@ -8,10 +8,6 @@ Repository intended for LaTeX projects &amp; code
 
 Vídeo: https://youtu.be/9p9RsjmAv0g
 
-Metodologia:
-
-<img width="650" alt="CRISP-DM Methodology" src="https://github.com/OviedoVR/Otimizando_Tabelas_LaTeX/blob/main/Tabelas_em_LaTeX.png">
-
 
 ## 2. **Mendeley e LaTeX (via Overleaf)**
 
